@@ -1,2 +1,6 @@
 This file has been created in remote repository!
+<<<<<<< .merge_file_OVwuvs
 
+=======
+This is my second edit !
+>>>>>>> .merge_file_laq80q
