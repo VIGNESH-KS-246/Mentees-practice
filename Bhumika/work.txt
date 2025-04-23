@@ -1,10 +1,4 @@
 work start
 welcome
-<<<<<<< HEAD
-W1
-W2
-W3
-w4
-=======
 Completed
->>>>>>> 56ed1b4 (I edited work file by adding completed sentence)
+started again
